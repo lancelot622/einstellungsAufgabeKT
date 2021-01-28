@@ -10,7 +10,7 @@ Du musst dich nicht genau ans Layout halten aber folgende Funktionen sollten vor
 
 -Jedes Produkt hat eine eigene Unterseite auf der man das Produkt in den Warenkorb legen kann, wenn man ein Produkt hinzufügt das schon im Warenkorb ist wird aufaddiert
 
--Im Warenkorb kann man Produktmengen erhöhen oder kleiner machen, Produkte sollen auch direkt gelöscht werden können.
+-Im Warenkorb kann man Produktmengen höher oder niedriger setzen, Produkte sollen auch direkt gelöscht werden können.
 
 -Das State Management soll komplett über Redux stattfinden.
 
