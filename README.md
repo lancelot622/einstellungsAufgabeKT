@@ -9,7 +9,6 @@ Ein Hinweis vorab: Du musst dich nicht genau ans Layout halten, denn der Fokus b
 
 Folgende Funktionen sollen enthalten sein:
 
- 
 
 - Das Suchfeld soll funktionieren. Man kann nach bestimmten Fruchtnamen suchen, die Liste von Früchten wird mit jedem veränderten Buchstaben laufend angepasst.
 
